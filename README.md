@@ -1,6 +1,6 @@
 # Veri Bilimi ve Makine Öğrenmesi Çalışmalarım
 
-Bu depoyu, Şubat 2026'dan bu yana veri bilimi ve makine öğrenmesi alanında öğrendiğim konuları düzenli ve kalıcı bir kaynakta toplamak amacıyla oluşturdum. Amacım; teorik bilgileri Python kodları, örnek veri setleri ve uygulamalarla pekiştirmek, gelişimimi takip etmek ve ihtiyaç duyduğumda yeniden başvurabileceğim kişisel bir çalışma arşivi oluşturmak.
+Bu depoyu, veri bilimi ve makine öğrenmesi alanında öğrendiğim konuları düzenli ve kalıcı bir kaynakta toplamak amacıyla oluşturdum. Amacım; teorik bilgileri Python kodları, örnek veri setleri ve uygulamalarla pekiştirmek, gelişimimi takip etmek ve ihtiyaç duyduğumda yeniden başvurabileceğim kişisel bir çalışma arşivi oluşturmak.
 
 Notlarımın büyük bölümü Türkçe anlatımlardan oluşuyor. Konuları mümkün olduğunca temel kavramlardan başlayarak teori, kodlama, model kurma, tahmin, değerlendirme ve model iyileştirme adımlarıyla ele alıyorum.
 
