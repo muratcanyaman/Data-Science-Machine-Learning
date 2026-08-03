@@ -50,6 +50,5 @@ Bu Notebook'ları hazırlarken ağırlıklı olarak aşağıdaki kaynaklardan ya
 
 Bu repodaki içerikler, yararlandığım kaynaklardan öğrendiğim konuları kendi öğrenme sürecime göre yeniden düzenlediğim kişisel notlar, örnekler ve uygulamalardan oluşmaktadır.
 
-## Not
 
 Bu depo, tamamlanmış tek bir projeden ziyade öğrenme sürecimle birlikte büyüyen kişisel bir bilgi ve uygulama arşividir. Yeni konular öğrendikçe mevcut notları geliştirmeye ve yeni çalışmalar eklemeye devam ediyorum.
