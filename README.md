@@ -44,7 +44,7 @@ Notebook'ların ihtiyaç duyduğu kütüphaneler konuya göre değişebilir. İl
 
 Bu notebook'ları hazırlarken ağırlıklı olarak aşağıdaki kaynaklardan yararlandım:
 
-- [Vahit Keskin — (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning](https://www.udemy.com/course/python-egitimi/learn/lecture/15068068?start=1#overview)
+- [Python A-Z™: Veri Bilimi ve Machine Learning](https://www.udemy.com/course/python-egitimi/learn/lecture/15068068?start=1#overview)
 - Python ve kullandığım veri bilimi ile makine öğrenmesi kütüphanelerinin resmi dokümantasyonları
 - [W3Schools](https://www.w3schools.com/)
 
