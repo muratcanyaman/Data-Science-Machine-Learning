@@ -28,7 +28,7 @@ Notlarımın büyük bölümü Türkçe anlatımlardan oluşuyor. Konuları müm
 
 Çalışmalarımda ağırlıklı olarak Python ve Jupyter Notebook kullanıyorum. NumPy, Pandas, SciPy, Statsmodels, Matplotlib, Seaborn ve Scikit-learn temel araç setini; XGBoost, LightGBM ve CatBoost ileri modelleme çalışmalarını; NLTK, TextBlob ve WordCloud metin analizini; SQLite, Hadoop, Spark ve PySpark ise veritabanı ve büyük veri çalışmalarını destekliyor.
 
-## Çalışmaları Çalıştırma
+## Noteook'ları Çalıştırma
 
 Depoyu bilgisayarınıza klonlayıp Jupyter Notebook veya JupyterLab ile ilgili dosyayı açabilirsiniz:
 
