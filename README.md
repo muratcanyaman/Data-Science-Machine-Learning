@@ -40,6 +40,16 @@ jupyter lab
 
 Notebook'ların ihtiyaç duyduğu kütüphaneler konuya göre değişebilir. İlgili notebook'taki import satırlarını kontrol ederek eksik paketleri kurabilirsiniz.
 
+## Kaynaklar
+
+Bu notebook'ları hazırlarken ağırlıklı olarak aşağıdaki kaynaklardan yararlandım:
+
+- [Vahit Keskin — (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning](https://www.udemy.com/course/python-egitimi/learn/lecture/15068068?start=1#overview)
+- Python ve kullandığım veri bilimi ile makine öğrenmesi kütüphanelerinin resmi dokümantasyonları
+- [W3Schools](https://www.w3schools.com/)
+
+Bu repodaki içerikler, yararlandığım kaynaklardan öğrendiğim konuları kendi öğrenme sürecime göre yeniden düzenlediğim kişisel notlar, örnekler ve uygulamalardan oluşmaktadır.
+
 ## Not
 
 Bu depo, tamamlanmış tek bir projeden ziyade öğrenme sürecimle birlikte büyüyen kişisel bir bilgi ve uygulama arşividir. Yeni konular öğrendikçe mevcut notları geliştirmeye ve yeni çalışmalar eklemeye devam ediyorum.
