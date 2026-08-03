@@ -42,7 +42,7 @@ Notebook'ların ihtiyaç duyduğu kütüphaneler konuya göre değişebilir. İl
 
 ## Kaynaklar
 
-Bu notebook'ları hazırlarken ağırlıklı olarak aşağıdaki kaynaklardan yararlandım:
+Bu Notebook'ları hazırlarken ağırlıklı olarak aşağıdaki kaynaklardan yararlandım:
 
 - [Python A-Z™: Veri Bilimi ve Machine Learning](https://www.udemy.com/course/python-egitimi/learn/lecture/15068068?start=1#overview)
 - Python ve kullandığım veri bilimi ile makine öğrenmesi kütüphanelerinin resmi dokümantasyonları
